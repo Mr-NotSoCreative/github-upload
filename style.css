@@ -1,0 +1,36 @@
+body{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.green{
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    background-color: #006A4E;
+    width: 867px;
+    height: 521px;
+    margin: 23px auto;
+    
+}
+.red{
+    
+    background-color: #F42A41;
+    width: 320px;
+    height: 320px;
+    border-radius: 50%;
+    margin: 0px 250px;
+}
+.text{
+    position: fixed;
+    /* bottom: 0px; */
+    left: 524px;
+   
+}
+a{
+    /* background: linear-gradient(green,red); */
+    text-decoration: none;
+    /* color: white; */
+}
+a:hover{
+    text-decoration: underline;
+}
